@@ -1,0 +1,3 @@
+build-standard/extmod/mbedtls/mbedtls_alt.o: \
+ ../../extmod/mbedtls/mbedtls_alt.c /usr/include/stdc-predef.h
+ ../../extmod/mbedtls/mbedtls_alt.c /usr/include/stdc-predef.h :

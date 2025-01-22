@@ -1,0 +1,8 @@
+Q(mount)
+Q(umount)
+Q(open)
+Q(chdir)
+Q(ilistdir)
+Q(stat)
+Q(statvfs)
+Q(VfsRom)
